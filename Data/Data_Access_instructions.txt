@@ -1,0 +1,1 @@
+For accessing the data of this directory through the .rmd it's better to recreate the file structure as in the rmd file. Helps in abstraction and running the analysis readily.
